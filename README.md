@@ -3,8 +3,12 @@
 Sistema para gerencia de estoque desenvolvido para apresentação como projeto final na faculdade
 de Analise de Sistemas.
 
+-------
+
 * usuário = admin
 * senha = admin
+
+-------
 
 * Desenvolvido em Java
 * Cadastro de Clientes
